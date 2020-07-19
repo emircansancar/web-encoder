@@ -7,6 +7,8 @@
   Web Encoder
 </h1>
 
+Web Encoder is an encoding and checking tool for the web.
+
 ## Supported
 * MD5
 * SHA1
