@@ -1,0 +1,15 @@
+.ant-tag-checkable:not(.ant-tag-checkable-checked) {
+  border-color: currentColor !important;
+}
+
+.hash-types-list-header {
+  overflow: auto;
+  white-space: nowrap;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.webkit-scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
